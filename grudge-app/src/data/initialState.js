@@ -1,4 +1,3 @@
-Learn more or give us feedback
 import name from 'random-name';
 import { v4 as id } from 'uuid';
 
