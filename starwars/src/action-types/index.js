@@ -1,0 +1,4 @@
+export const DATA_LOADED = "DATA_LOADED";
+export const LOADING = "LOADING";
+export const CHANGE_STATUS_LOADING_TO_FALSE = "CHANGE_STATUS_LOADING_TO_FALSE";
+export const ERROR = "ERROR";
